@@ -1,2 +1,2 @@
 # test-panpan
-This is description.
+This is description for my first repository.
